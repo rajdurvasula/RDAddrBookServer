@@ -1,0 +1,7 @@
+net/rdurvasula/angjs/sample/model/Contact.class
+net/rdurvasula/angjs/sample/RdAddrBookServerApplication.class
+net/rdurvasula/angjs/sample/model/AuditModel.class
+net/rdurvasula/angjs/sample/controller/ContactController.class
+net/rdurvasula/angjs/sample/config/WebSvcConfig.class
+net/rdurvasula/angjs/sample/repository/ContactRepository.class
+net/rdurvasula/angjs/sample/controller/ResourceNotFoundException.class
